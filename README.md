@@ -50,4 +50,6 @@ In Part 2 we scrapeed and analyzed Mars weather data, which existed in a table a
       To answer this question we considered how many days elapsed on Earth in the time that Mars circled the Sun once, then visually estimated the result by plotting the          daily minimum temperature.
 6. Exported the DataFrame to a CSV file.
 
-   
+## References
+
+* The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website https://mars.nasa.gov/ in November 2022. Images are used according to the JPL Image Use Policy at https://www.jpl.nasa.gov/jpl-image-use-policy, courtesy NASA/JPL-Caltech.
